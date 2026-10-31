@@ -2,7 +2,7 @@
 
 A small BepInEx 5 plugin that fixes ghost and floating ore scanner markers in **Starship EVO**.
 
-> ⚠️ **Unofficial mod. Not tested in-game yet (it only compiles so far). Use at your own risk and back up your saves first.**
+> ⚠️ **Unofficial mod, not affiliated with the developer. Tested in-game and working (v1.0.0, October 2026). Game updates may break it, so back up your saves first.**
 > Not affiliated with or endorsed by the developer of Starship EVO.
 
 ## What it fixes
